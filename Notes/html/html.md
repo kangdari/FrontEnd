@@ -52,3 +52,9 @@ head 안에 들어가는 태그로 제목 표시줄의 내용을 나타냅니다
 ## HTML 요소
 
 ![요소](../../Image/html/html2.JPG)
+
+## 참고
+
+* [HTML의 기본 구조와 태그](https://www.zerocho.com/category/HTML&DOM/post/58177daee4184c0015b8058a)
+
+* [html 101 - DOCTYPE 과 Semantic](https://velog.io/@jay/html-101-DOCTYPE)
