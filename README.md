@@ -17,3 +17,5 @@
 * [이벤트 위임(Event Delegation)](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/EventDelegation.md)
 
 * [SSR, CSR, SPA, SEO](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/SSR,CSR,SPA,SEO.md)
+
+* [Asynchronous, Synchronous](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Asynchronous.md)
