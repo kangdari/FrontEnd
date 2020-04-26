@@ -19,3 +19,5 @@
 * [SSR, CSR, SPA, SEO](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/SSR,CSR,SPA,SEO.md)
 
 * [Asynchronous, Synchronous](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Asynchronous.md)
+
+* [Ajax, fetch](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Ajax,fetch.md)
