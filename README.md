@@ -25,3 +25,7 @@
 * [다양한 for문](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/for.md)
 
 * [==과 ===](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/==,===.md)
+
+## 보안
+
+* [동일 출처 정책](https://github.com/kangdari/FrontEnd/blob/master/Notes/security/SameOriginPolicy.md)
