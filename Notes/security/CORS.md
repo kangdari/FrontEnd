@@ -13,7 +13,7 @@
 
 ### Access-Control-Allow-Origin response 헤더 추가
 
-`Access-Control-Allow-Origin` 응답 헤더는 이 응답이 주어진 origin으로부터 요청 코드와 공율될 수 있는지를 나타냅니다. `출처 - mdn `
+`Access-Control-Allow-Origin` 응답 헤더는 이 응답이 주어진 origin으로부터 요청 코드와 공유될 수 있는지를 나타냅니다. `출처 - mdn `
 
 `response.setHeader("Access-Control-Allow-Origin", "*")` 
 
