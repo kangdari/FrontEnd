@@ -14,6 +14,8 @@
 
 - [<script></script> 태그의 선언 위치와 defer, async 속성](https://github.com/kangdari/FrontEnd/blob/master/Notes/html/scriptTag,async,defer.md)
 
+- [utf-8](https://github.com/kangdari/FrontEnd/blob/master/Notes/html/utf-8.md)
+
 ## JavaScript
 
 - [이벤트 위임(Event Delegation)](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/EventDelegation.md)
@@ -28,6 +30,8 @@
 
 - [==과 ===](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/==,===.md)
 
+- [null, undefined](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/null,undefined.md)
+
 ## 보안
 
 - [동일 출처 정책](https://github.com/kangdari/FrontEnd/blob/master/Notes/security/SameOriginPolicy.md)
@@ -37,3 +41,5 @@
 ## etc
 
 - [MVC](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/MVC.md)
+
+utf-8
