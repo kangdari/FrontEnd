@@ -42,4 +42,4 @@
 
 - [MVC](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/MVC.md)
 
-utf-8
+- [library와 framework](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/library,framework.md)
