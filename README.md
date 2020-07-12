@@ -43,3 +43,5 @@
 - [MVC](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/MVC.md)
 
 - [library와 framework](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/library,framework.md)
+
+- [Module](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/Module.md)
