@@ -24,6 +24,8 @@
 
 - [Asynchronous, Synchronous](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Asynchronous.md)
 
+- [Promise](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Promise.md)
+
 - [Ajax, fetch](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Ajax,fetch.md)
 
 - [다양한 for문](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/for.md)
