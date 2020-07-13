@@ -22,7 +22,7 @@
 
 - [SSR, CSR, SPA, SEO](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/SSR,CSR,SPA,SEO.md)
 
-- [Asynchronous, Synchronous](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Asynchronous.md)
+- [Asynchronous, Synchronous, Callback](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Asynchronous.md)
 
 - [Promise](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Promise.md)
 
