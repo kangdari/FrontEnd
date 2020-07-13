@@ -1,6 +1,6 @@
 # Promise
 
-callback 함수로 비동기 처리를 하는 경우 callback hell이 형성되어 가독성이 떨어지거나 디버깅, 유지보수의 어려움이 있다. 이를 보환하기 위한 것이 Promise이다.
+callback 함수로 비동기 처리를 하는 경우 callback hell이 형성되어 가독성이 떨어지거나 디버깅, 유지보수의 어려움이 있다. 이를 보완하기 위한 것이 Promise이다.
 
 Promise는 비동기 작업을 위한 자바스크립트 객체이다. Promise는 State와 Producer, Consumer가 있다.
 
@@ -11,7 +11,7 @@ Promise는 비동기 작업을 위한 자바스크립트 객체이다. Promise�
 - rejected 비동기 처리가 실패하거나 오류가 발생한 상태
 
 **Producer**
-Produce는 원하는 기능을 수행하고 해당하는 데이터를 만든다.
+Producer는 원하는 기능을 수행하고 해당하는 데이터를 만든다.
 
 - Promise가 정상적으로 수행 시 resolve를 반환한다.
 
