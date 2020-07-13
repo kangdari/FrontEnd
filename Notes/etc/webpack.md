@@ -154,4 +154,52 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 - ProgressPlugin : 웹팩의 빌드 진행율을 표시해주는 플러그인4
 - MiniCssExtractPlugin: css 파일로 변환해주는 플러그인
 
+## 웹팩 devServer
+
+웹팩의 빌드 대상 파일이 변경 되었을 때 매번 웹팩 명령어를 실행하지 않아도 코드만 변경하고 저장하면 웹팩으로 빌드한 후 브라우저를 새로고침 합니다. 매번 명령어를 치는 시간과 브라우저를 새로 고침하는 시간 뿐만 아니라 웹팩 빌드 시간 또한 줄여주기 때문에 웹팩 기반의 웹 애플리케이션 개발에 필수로 사용됩니다.
+[DevServer](https://webpack.js.org/configuration/dev-server/)
+
+```
+// package.json
+
+"scripts": {
+  "dev": "webpack-dev-server", // devServer 실행
+  "build": "webpack" // 웹팩 빌드
+}
+```
+
+`npm run dev` 명령어로 webpack-dev-server 실행
+
+웹팩 데브 서버로 빌드한 결과물은 메모리에 저장되고 파일로 생성되지 않기 때문에 컴퓨터 내부적으로는 접근할 수 있지만 눈으로 확인하고 조작할 수 없습니다.
+
+> 컴퓨터 구조 관점에서 파일 입출력보다 메모리 입출력이 더 빠르고 자원을 덜 소모합니다.
+
+따라서 웹팩 데브 서버로 개발을 진행하다가 개발이 완료되어 배포할 때는 웹팩 명령어를 이용하여 결과물 파일을 생성해야 합니다.
+
+```
+// webpack.config.js
+
+const path = require('path');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+
+module.exports = {
+  mode: 'none',
+  entry: './index.js',
+  output: {
+    filename: 'bundle.js',
+    path: path.resolve(__dirname, 'dist'),
+  },
+  devServer: {
+    port: 9000, // devServer 실행 port
+  },
+  plugins: [
+    new HtmlWebpackPlugin({
+      // 빌드 시
+      // index.html 템플릿을 기반으로 빌드 결과물을 추가해줌
+      template: 'index.html',
+    }),
+  ],
+};
+```
+
 [참고 사이트](https://joshua1988.github.io/webpack-guide/webpack/what-is-webpack.html#%EC%9B%B9%ED%8C%A9%EC%9D%B4%EB%9E%80)
