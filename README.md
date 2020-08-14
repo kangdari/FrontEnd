@@ -40,6 +40,8 @@
 
 - [Hoisting](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Hoisting.md)
 
+- [IntersectionObserver](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/IntersectionObserver.md)
+
 ## 보안
 
 - [동일 출처 정책](https://github.com/kangdari/FrontEnd/blob/master/Notes/security/SameOriginPolicy.md)
