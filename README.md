@@ -57,3 +57,5 @@
 - [Module](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/Module.md)
 
 - [webpack](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/webpack.md)
+
+- [브라우저 렌더링의 원리](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/브라우저_렌더링_원리.md)
