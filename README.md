@@ -42,6 +42,8 @@
 
 - [IntersectionObserver](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/IntersectionObserver.md)
 
+- [클로저](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/closure.md)
+
 ## 보안
 
 - [동일 출처 정책](https://github.com/kangdari/FrontEnd/blob/master/Notes/security/SameOriginPolicy.md)
