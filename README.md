@@ -46,7 +46,9 @@
 
 - [IntersectionObserver](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/IntersectionObserver.md)
 
-- [클로저](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/closure.md)
+- [클로저](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/클로저.md)
+
+- [비동기 처리와 콜백](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/비동기처리,콜백.md)
 
 ## 보안
 
