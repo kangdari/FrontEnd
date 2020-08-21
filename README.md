@@ -67,3 +67,5 @@
 - [webpack](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/webpack.md)
 
 - [브라우저 렌더링의 원리](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/브라우저_렌더링_원리.md)
+
+- [HTTP, GET과 POST의 차이](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/HTTP,GET,POST.md)
