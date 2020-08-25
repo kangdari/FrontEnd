@@ -58,6 +58,8 @@
 
 - [자바스크립트엔진, EventLoop, WebAPI, TaskQueue](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/자바스크립트엔진,EventLoop,WebAPI,TaskQueue.md)
 
+- [이벤트 버블링, 캡쳐](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Event_Bubbling,Capture.md)
+
 ## 보안
 
 - [동일 출처 정책](https://github.com/kangdari/FrontEnd/blob/master/Notes/security/SameOriginPolicy.md)
