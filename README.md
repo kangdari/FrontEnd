@@ -18,6 +18,8 @@
 
 - [LocalStorage, SessionStorage, Cookie](https://github.com/kangdari/FrontEnd/blob/master/Notes/html/LocalStorage,SessionStorage,Cookie.md)
 
+- [Web Worker](https://github.com/kangdari/FrontEnd/blob/master/Notes/html/WebWorker.md)
+
 ## CSS
 
 - [position](https://github.com/kangdari/FrontEnd/blob/master/Notes/css/position.md)
