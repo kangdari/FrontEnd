@@ -75,3 +75,5 @@
 - [브라우저 렌더링의 원리](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/브라우저_렌더링_원리.md)
 
 - [HTTP, GET과 POST의 차이](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/HTTP,GET,POST.md)
+
+- [REST_API, HTTP 메서드](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/REST_API.md)
