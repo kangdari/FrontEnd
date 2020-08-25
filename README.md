@@ -16,6 +16,8 @@
 
 - [utf-8](https://github.com/kangdari/FrontEnd/blob/master/Notes/html/utf-8.md)
 
+- [LocalStorage, SessionStorage, Cookie](https://github.com/kangdari/FrontEnd/blob/master/Notes/html/LocalStorage,SessionStorage,Cookie.md)
+
 ## CSS
 
 - [position](https://github.com/kangdari/FrontEnd/blob/master/Notes/css/position.md)
