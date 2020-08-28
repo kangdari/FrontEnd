@@ -60,6 +60,8 @@
 
 - [이벤트 버블링, 캡쳐](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Event_Bubbling,Capture.md)
 
+- [Prototype](https://github.com/kangdari/FrontEnd/blob/master/Notes/javascript/Prototype.md)
+
 ## 보안
 
 - [동일 출처 정책](https://github.com/kangdari/FrontEnd/blob/master/Notes/security/SameOriginPolicy.md)
