@@ -81,3 +81,5 @@
 - [HTTP, GET과 POST의 차이](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/HTTP,GET,POST.md)
 
 - [REST_API, HTTP 메서드](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/REST_API.md)
+
+- [네이티브 앱, 웹 앱, 하이브리드 앱,모바일 웹](https://github.com/kangdari/FrontEnd/blob/master/Notes/etc/네이티브앱,웹앱,하이브리드앱,모바일웹.md)
