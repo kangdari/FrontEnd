@@ -12,6 +12,12 @@ v8, callStack, Web api, Task Queue(Evnet Queue), Event Loop 한번 쯤은 어디
 
 하나 하나 정리해보자.
 
+# Javascript Runtime
+
+**런타임**이란 프로그래밍 언어가 구동되는 환경을 말합니다.
+
+자바스크립트 런타임은 Javascript engine, Web API, Task Queue, Event Loop, Render Queue로 구성되어있다.
+
 # Javascript engine
 
 자바스크립트 엔진은 CallStack과 Memory Heap 으로 구성되어 있다. 그 중 가장 유명한 것이 구글의 V8 엔진이다.
